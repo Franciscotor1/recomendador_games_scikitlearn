@@ -1,0 +1,1346 @@
+[
+    {
+        "Nombre": "The Witcher 3",
+        "Genero": "RPG",
+        "Plataforma": "PC",
+        "IGN": 9.8,
+        "Vandal": 9.5,
+        "Puntaje": 9.7,
+        "Recomendacion": "Un juego de rol inmersivo con una historia \u00e9pica y un mundo abierto enorme."
+    },
+    {
+        "Nombre": "FIFA 22",
+        "Genero": "Deportes",
+        "Plataforma": "Playstation 5",
+        "IGN": 8.0,
+        "Vandal": 7.9,
+        "Puntaje": 8.5,
+        "Recomendacion": "Excelente juego de f\u00fatbol con gr\u00e1ficos realistas y modos de juego variados."
+    },
+    {
+        "Nombre": "Black Myth Wukong",
+        "Genero": "RPG",
+        "Plataforma": "Playstation 5",
+        "IGN": 10.0,
+        "Vandal": 10.0,
+        "Puntaje": 10.0,
+        "Recomendacion": "Excelente, obra maestra"
+    },
+    {
+        "Nombre": "Starfield",
+        "Genero": "RPG",
+        "Plataforma": "PC, Xbox Series X|S",
+        "IGN": 9.5,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un juego de rol espacial con un universo expansivo lleno de misiones y exploraci\u00f3n."
+    },
+    {
+        "Nombre": "Final Fantasy XVI",
+        "Genero": "RPG",
+        "Plataforma": "Playstation 5",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una \u00e9pica aventura de fantas\u00eda con combates din\u00e1micos y una historia fascinante."
+    },
+    {
+        "Nombre": "Assassin's Creed: Codename Red",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.7,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Explora el Jap\u00f3n feudal en esta nueva entrega de la saga Assassin's Creed."
+    },
+    {
+        "Nombre": "Spider-Man 2",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5",
+        "IGN": 9.3,
+        "Vandal": 9.1,
+        "Puntaje": 9.2,
+        "Recomendacion": "Una aventura de Spider-Man con gr\u00e1ficos espectaculares y una historia intrigante."
+    },
+    {
+        "Nombre": "The Legend of Zelda: Tears of the Kingdom",
+        "Genero": "Aventura, Mundo Abierto",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 9.8,
+        "Vandal": 9.7,
+        "Puntaje": 9.8,
+        "Recomendacion": "Una continuaci\u00f3n de la aclamada saga con un mundo m\u00e1s grande y mec\u00e1nicas innovadoras."
+    },
+    {
+        "Nombre": "Hogwarts Legacy",
+        "Genero": "RPG",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X|S",
+        "IGN": 8.9,
+        "Vandal": 8.8,
+        "Puntaje": 9.0,
+        "Recomendacion": "Vive tu experiencia como estudiante de magia en el mundo de Harry Potter."
+    },
+    {
+        "Nombre": "FIFA 24",
+        "Genero": "Deportes",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC, Nintendo Switch",
+        "IGN": 8.2,
+        "Vandal": 7.9,
+        "Puntaje": 8.0,
+        "Recomendacion": "El mejor simulador de f\u00fatbol con mejoras en jugabilidad y modos de juego."
+    },
+    {
+        "Nombre": "Horizon Forbidden West",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, Playstation 4",
+        "IGN": 9.0,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "Explora un mundo post-apocal\u00edptico lleno de dinosaurios mec\u00e1nicos y secretos por descubrir."
+    },
+    {
+        "Nombre": "Diablo IV",
+        "Genero": "RPG, Acci\u00f3n",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X|S",
+        "IGN": 8.9,
+        "Vandal": 8.5,
+        "Puntaje": 8.7,
+        "Recomendacion": "La \u00e9pica saga de Diablo regresa con nuevos personajes, mazmorras y una historia oscura."
+    },
+    {
+        "Nombre": "Call of Duty: Modern Warfare III",
+        "Genero": "Shooter",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.8,
+        "Vandal": 8.6,
+        "Puntaje": 8.7,
+        "Recomendacion": "La aclamada saga de shooter en primera persona regresa con una nueva campa\u00f1a y multijugador."
+    },
+    {
+        "Nombre": "Gran Turismo 7",
+        "Genero": "Carreras",
+        "Plataforma": "Playstation 5, Playstation 4",
+        "IGN": 9.0,
+        "Vandal": 8.9,
+        "Puntaje": 9.0,
+        "Recomendacion": "El simulador de carreras m\u00e1s realista con gr\u00e1ficos impresionantes y una amplia selecci\u00f3n de autos."
+    },
+    {
+        "Nombre": "Street Fighter 6",
+        "Genero": "Lucha",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 9.1,
+        "Vandal": 9.0,
+        "Puntaje": 9.1,
+        "Recomendacion": "El regreso de la ic\u00f3nica saga de lucha con nuevos personajes y escenarios."
+    },
+    {
+        "Nombre": "Mortal Kombat 1",
+        "Genero": "Lucha",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 9.2,
+        "Vandal": 9.1,
+        "Puntaje": 9.1,
+        "Recomendacion": "Un reboot de la serie con personajes cl\u00e1sicos y nuevas mec\u00e1nicas de combate."
+    },
+    {
+        "Nombre": "Alan Wake 2",
+        "Genero": "Horror, Acci\u00f3n",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.9,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "Un thriller psicol\u00f3gico de horror con una narrativa intensa y un ambiente oscuro."
+    },
+    {
+        "Nombre": "Star Wars: Outlaws",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X|S",
+        "IGN": 8.5,
+        "Vandal": 8.4,
+        "Puntaje": 8.5,
+        "Recomendacion": "Vive una aventura en el universo de Star Wars, con historia original y exploraci\u00f3n de planetas."
+    },
+    {
+        "Nombre": "Forza Motorsport 8",
+        "Genero": "Carreras",
+        "Plataforma": "Xbox Series X|S, PC",
+        "IGN": 9.2,
+        "Vandal": 9.0,
+        "Puntaje": 9.1,
+        "Recomendacion": "El simulador de carreras definitivo con gr\u00e1ficos ultra realistas y una gran variedad de autos."
+    },
+    {
+        "Nombre": "Cyberpunk 2077: Phantom Liberty",
+        "Genero": "RPG, Acci\u00f3n",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X|S",
+        "IGN": 9.0,
+        "Vandal": 8.9,
+        "Puntaje": 9.0,
+        "Recomendacion": "Expansi\u00f3n para Cyberpunk 2077 con nuevas historias, misiones y un mundo abierto por explorar."
+    },
+    {
+        "Nombre": "Baldur's Gate 3",
+        "Genero": "RPG",
+        "Plataforma": "PC, PlayStation 5",
+        "IGN": 9.3,
+        "Vandal": 9.2,
+        "Puntaje": 9.3,
+        "Recomendacion": "Un RPG profundo y estrat\u00e9gico con elecciones significativas y una historia emocionante."
+    },
+    {
+        "Nombre": "Redfall",
+        "Genero": "Acci\u00f3n, Shooter",
+        "Plataforma": "Xbox Series X|S, PC",
+        "IGN": 7.5,
+        "Vandal": 7.2,
+        "Puntaje": 7.3,
+        "Recomendacion": "Un juego de disparos en mundo abierto con tem\u00e1tica de vampiros y un enfoque cooperativo."
+    },
+    {
+        "Nombre": "Tears of the Kingdom: DLC",
+        "Genero": "Aventura",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 9.4,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "Expansi\u00f3n para el aclamado juego con nuevos puzzles, personajes y habilidades."
+    },
+    {
+        "Nombre": "Dragon Age: Dreadwolf",
+        "Genero": "RPG",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X|S",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una nueva entrega de la saga RPG con nuevas aventuras y decisiones dif\u00edciles."
+    },
+    {
+        "Nombre": "Fable IV",
+        "Genero": "RPG, Acci\u00f3n",
+        "Plataforma": "Xbox Series X|S, PC",
+        "IGN": 8.8,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "El regreso de la famosa saga RPG de mundo abierto con gr\u00e1ficos mejorados y m\u00e1s interacci\u00f3n."
+    },
+    {
+        "Nombre": "Spider-Man 2: Miles Morales",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5",
+        "IGN": 9.0,
+        "Vandal": 8.9,
+        "Puntaje": 9.0,
+        "Recomendacion": "Una aventura de Spider-Man con nuevas mec\u00e1nicas de lucha y exploraci\u00f3n en Nueva York."
+    },
+    {
+        "Nombre": "Star Wars: Knights of the Old Republic Remake",
+        "Genero": "RPG",
+        "Plataforma": "Playstation 5, PC",
+        "IGN": 8.6,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Una remasterizaci\u00f3n de uno de los mejores RPGs de Star Wars con una historia profunda y elecciones dif\u00edciles."
+    },
+    {
+        "Nombre": "Hellblade II: Senua's Saga",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Xbox Series X|S, PC",
+        "IGN": 9.2,
+        "Vandal": 9.0,
+        "Puntaje": 9.1,
+        "Recomendacion": "Un juego psicol\u00f3gico con gr\u00e1ficos impresionantes y una trama que explora la salud mental."
+    },
+    {
+        "Nombre": "Assassin's Creed: Mirage",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.5,
+        "Vandal": 8.3,
+        "Puntaje": 8.4,
+        "Recomendacion": "Regresa al sigilo cl\u00e1sico de Assassin's Creed en un mundo lleno de secretos y combate \u00e1gil."
+    },
+    {
+        "Nombre": "The Witcher 4: Blood & Wine",
+        "Genero": "RPG, Aventura",
+        "Plataforma": "Playstation 5, PC",
+        "IGN": 9.7,
+        "Vandal": 9.5,
+        "Puntaje": 9.6,
+        "Recomendacion": "Una nueva expansi\u00f3n de The Witcher con nuevas misiones, personajes y un mundo por descubrir."
+    },
+    {
+        "Nombre": "Metroid Prime 4",
+        "Genero": "Aventura, Acci\u00f3n",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 9.1,
+        "Vandal": 9.0,
+        "Puntaje": 9.1,
+        "Recomendacion": "El regreso de Samus Aran en un t\u00edtulo con acci\u00f3n intensa y exploraci\u00f3n en un mundo alien\u00edgena."
+    },
+    {
+        "Nombre": "Red Dead Redemption 2: Director's Cut",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 9.8,
+        "Vandal": 9.7,
+        "Puntaje": 9.8,
+        "Recomendacion": "Una nueva edici\u00f3n con mejoras gr\u00e1ficas y contenido adicional en el mundo de los forajidos."
+    },
+    {
+        "Nombre": "CyberConnect2's Naruto: Ultimate Ninja Storm 5",
+        "Genero": "Lucha, Acci\u00f3n",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.9,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "El regreso de la franquicia de lucha con nuevos personajes y una historia llena de acci\u00f3n."
+    },
+    {
+        "Nombre": "Marvel's Wolverine",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una aventura en solitario de Wolverine con combate brutal y narrativa envolvente."
+    },
+    {
+        "Nombre": "Avatar: Frontiers of Pandora",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.7,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Vive la experiencia de Pandora con exploraci\u00f3n y combate en el mundo del famoso filme."
+    },
+    {
+        "Nombre": "Suicide Squad: Kill the Justice League",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.3,
+        "Vandal": 8.0,
+        "Puntaje": 8.1,
+        "Recomendacion": "Un juego de acci\u00f3n cooperativo donde los villanos de DC enfrentan a los h\u00e9roes en un combate \u00e9pico."
+    },
+    {
+        "Nombre": "Elden Ring: Shadow of the Erdtree",
+        "Genero": "RPG, Acci\u00f3n",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 9.5,
+        "Vandal": 9.4,
+        "Puntaje": 9.5,
+        "Recomendacion": "Una expansi\u00f3n para el exitoso Elden Ring con nuevos mapas, jefes y una narrativa rica."
+    },
+    {
+        "Nombre": "Gran Turismo 8",
+        "Genero": "Carreras",
+        "Plataforma": "Playstation 5, Xbox Series X|S",
+        "IGN": 9.1,
+        "Vandal": 8.9,
+        "Puntaje": 9.0,
+        "Recomendacion": "La nueva entrega de Gran Turismo con autos realistas, circuitos y una experiencia de conducci\u00f3n impresionante."
+    },
+    {
+        "Nombre": "Lords of the Fallen 2",
+        "Genero": "RPG, Acci\u00f3n",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.2,
+        "Vandal": 8.0,
+        "Puntaje": 8.1,
+        "Recomendacion": "Un juego de acci\u00f3n y rol en un mundo oscuro con mec\u00e1nicas desafiantes."
+    },
+    {
+        "Nombre": "The Elder Scrolls VI",
+        "Genero": "RPG",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X|S",
+        "IGN": 9.3,
+        "Vandal": 9.1,
+        "Puntaje": 9.2,
+        "Recomendacion": "El esperad\u00edsimo RPG de mundo abierto de Bethesda con una historia rica y un mundo lleno de posibilidades."
+    },
+    {
+        "Nombre": "Ghost of Tsushima: Director's Cut",
+        "Genero": "Acci\u00f3n, Aventura",
+        "Plataforma": "Playstation 5, PlayStation 4",
+        "IGN": 9.2,
+        "Vandal": 9.0,
+        "Puntaje": 9.1,
+        "Recomendacion": "Un samur\u00e1i luchando por su honor en una Jap\u00f3n feudal bellamente recreada."
+    },
+    {
+        "Nombre": "Tetris Effect: Connected",
+        "Genero": "Puzzle",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.7,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Una versi\u00f3n moderna de Tetris con gr\u00e1ficos alucinantes y modos multijugador."
+    },
+    {
+        "Nombre": "Resident Evil 9: Village",
+        "Genero": "Horror, Acci\u00f3n",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una nueva entrega de la saga de terror con nuevos enemigos y una atm\u00f3sfera tensa."
+    },
+    {
+        "Nombre": "Metal Gear Solid 6",
+        "Genero": "Acci\u00f3n, Sigilo",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 9.4,
+        "Vandal": 9.2,
+        "Puntaje": 9.3,
+        "Recomendacion": "El regreso de Snake con nuevos elementos de sigilo y una historia llena de intriga."
+    },
+    {
+        "Nombre": "ZELDA 1",
+        "Genero": "RPG",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 9.5,
+        "Vandal": 8.0,
+        "Puntaje": 9.0,
+        "Recomendacion": "Buen juego para resolver puzzles",
+        "Pais": "M\u00e9xico"
+    },
+    {
+        "Nombre": "Hades",
+        "Genero": "Acción",
+        "Plataforma": "PC, Switch, Playstation 4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 9.2,
+        "Puntaje": 9.1,
+        "Recomendacion": "Un juego de acción rogue-like con combates fluidos y una historia atrapante."
+    },
+    {
+        "Nombre": "God of War Ragnarök",
+        "Genero": "Acción, Aventura",
+        "Plataforma": "Playstation 5, Playstation 4",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Una aventura épica con gráficos impresionantes y un combate brutal."
+    },
+    {
+        "Nombre": "Spider-Man: Miles Morales",
+        "Genero": "Acción, Aventura",
+        "Plataforma": "Playstation 5, Playstation 4",
+        "IGN": 8.8,
+        "Vandal": 9.0,
+        "Puntaje": 8.9,
+        "Recomendacion": "La secuela de Spider-Man con nuevas mecánicas y una historia fresca."
+    },
+    {
+        "Nombre": "Madden NFL 23",
+        "Genero": "Deportes",
+        "Plataforma": "Playstation 5, Xbox Series X|S, PC",
+        "IGN": 8.0,
+        "Vandal": 7.8,
+        "Puntaje": 7.9,
+        "Recomendacion": "Un juego de fútbol americano con mecánicas mejoradas y gráficos impresionantes."
+    },
+    {
+        "Nombre": "F1 2021",
+        "Genero": "Deportes",
+        "Plataforma": "PC, Playstation 5, Xbox Series X|S",
+        "IGN": 8.5,
+        "Vandal": 8.3,
+        "Puntaje": 8.4,
+        "Recomendacion": "El mejor simulador de Fórmula 1 con una excelente física y experiencia realista."
+    },
+    {
+        "Nombre": "Civilization VI",
+        "Genero": "Estrategia",
+        "Plataforma": "PC, Switch, Xbox One, Playstation 4",
+        "IGN": 9.5,
+        "Vandal": 9.0,
+        "Puntaje": 9.3,
+        "Recomendacion": "Un juego de estrategia donde lideras una civilización desde la Edad de Piedra hasta el futuro."
+    },
+    {
+        "Nombre": "XCOM 2",
+        "Genero": "Estrategia",
+        "Plataforma": "PC, Playstation 4, Xbox One",
+        "IGN": 9.3,
+        "Vandal": 9.2,
+        "Puntaje": 9.3,
+        "Recomendacion": "Un juego de táctica por turnos con una campaña desafiante y una gran rejugabilidad."
+    },
+    {
+        "Nombre": "The Elder Scrolls V: Skyrim",
+        "Genero": "RPG",
+        "Plataforma": "PC, Playstation 5, Xbox Series X|S, Switch",
+        "IGN": 9.5,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un clásico RPG de mundo abierto con una historia inmersiva y misiones emocionantes."
+    },
+    {
+        "Nombre": "Persona 5 Royal",
+        "Genero": "RPG",
+        "Plataforma": "Playstation 4, PC",
+        "IGN": 9.7,
+        "Vandal": 9.5,
+        "Puntaje": 9.6,
+        "Recomendacion": "Una obra maestra del género RPG con una historia cautivadora y un sistema de combate único."
+    },
+    {
+        "Nombre": "Horizon Zero Dawn",
+        "Genero": "Acción, Aventura",
+        "Plataforma": "Playstation 4, PC",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una aventura post-apocalíptica con gráficos impresionantes y una jugabilidad sólida."
+    },
+    {
+        "Nombre": "Red Dead Redemption 2",
+        "Genero": "Acción, Aventura",
+        "Plataforma": "PC, Playstation 5, Xbox Series X|S",
+        "IGN": 10.0,
+        "Vandal": 9.9,
+        "Puntaje": 9.9,
+        "Recomendacion": "Una aventura épica en un mundo abierto, con una historia profunda y jugabilidad realista."
+    },
+    {
+        "Nombre": "Call of Duty: Warzone",
+        "Genero": "Shooter",
+        "Plataforma": "PC, Playstation 4, Xbox One",
+        "IGN": 8.5,
+        "Vandal": 8.3,
+        "Puntaje": 8.4,
+        "Recomendacion": "Un juego de batalla real con acción rápida y un enfoque en el combate táctico."
+    },
+    {
+        "Nombre": "DOOM Eternal",
+        "Genero": "Shooter",
+        "Plataforma": "PC, Playstation 5, Xbox Series X|S",
+        "IGN": 9.3,
+        "Vandal": 9.5,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un shooter rápido y brutal con una banda sonora increíble y combate frenético."
+    },
+    {
+        "Nombre": "The Sims 4",
+        "Genero": "Simulación",
+        "Plataforma": "PC, Playstation 4, Xbox One",
+        "IGN": 8.0,
+        "Vandal": 7.8,
+        "Puntaje": 7.9,
+        "Recomendacion": "Un simulador de vida donde puedes crear y controlar a tus Sims en un mundo abierto."
+    },
+    {
+        "Nombre": "SimCity 4",
+        "Genero": "Simulación",
+        "Plataforma": "PC",
+        "IGN": 9.1,
+        "Vandal": 9.0,
+        "Puntaje": 9.0,
+        "Recomendacion": "Un clásico simulador de ciudad con una jugabilidad adictiva y mucha profundidad."
+    },
+    {
+        "Nombre": "Forza Horizon 5",
+        "Genero": "Carreras",
+        "Plataforma": "PC, Xbox Series X|S",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Un juego de carreras de mundo abierto con una impresionante variedad de vehículos y paisajes."
+    },
+    {
+        "Nombre": "Mario Kart 8 Deluxe",
+        "Genero": "Carreras",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 9.5,
+        "Vandal": 9.2,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un juego de carreras lleno de acción con personajes divertidos y una jugabilidad divertida."
+    },
+    {
+        "Nombre": "Tekken 7",
+        "Genero": "Lucha",
+        "Plataforma": "PC, Playstation 4, Xbox One",
+        "IGN": 8.9,
+        "Vandal": 9.0,
+        "Puntaje": 8.9,
+        "Recomendacion": "Un juego de lucha con una amplia variedad de personajes y mecánicas fáciles de aprender."
+    },
+    {
+        "Nombre": "Super Smash Bros. Ultimate",
+        "Genero": "Lucha",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 9.8,
+        "Vandal": 9.7,
+        "Puntaje": 9.8,
+        "Recomendacion": "El mejor juego de lucha en consola con una enorme selección de personajes y escenarios."
+    },
+    {
+        "Nombre": "The Legend of Zelda: Link's Awakening",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 8.7,
+        "Vandal": 8.9,
+        "Puntaje": 8.8,
+        "Recomendacion": "Una excelente remasterización de un clásico de Zelda con un estilo gráfico único."
+    },
+    {
+        "Nombre": "Grim Fandango Remastered",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, Playstation 4, Switch",
+        "IGN": 9.1,
+        "Vandal": 9.0,
+        "Puntaje": 9.0,
+        "Recomendacion": "Un juego de aventura gráfico con una historia fantástica y mecánicas clásicas."
+    },
+    {
+        "Nombre": "The Witness",
+        "Genero": "Puzzle",
+        "Plataforma": "PC, Playstation 4, Xbox One",
+        "IGN": 9.5,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un juego de puzzles filosófico con un mundo abierto y acertijos desafiantes."
+    },
+    {
+        "Nombre": "Portal 2",
+        "Genero": "Puzzle",
+        "Plataforma": "PC, Playstation 3, Xbox 360",
+        "IGN": 9.7,
+        "Vandal": 9.6,
+        "Puntaje": 9.7,
+        "Recomendacion": "Un juego de puzzles brillante que combina historia, humor y mecánicas innovadoras."
+    },
+    {
+        "Nombre": "Apex Legends",
+        "Genero": "Battle Royale",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 9.2,
+        "Vandal": 8.9,
+        "Puntaje": 9.0,
+        "Recomendacion": "Juego rápido, emocionante y competitivo."
+    },
+    {
+        "Nombre": "Fortnite",
+        "Genero": "Battle Royale",
+        "Plataforma": "PC, PlayStation 5, Xbox Series X, Nintendo Switch",
+        "IGN": 8.5,
+        "Vandal": 7.8,
+        "Puntaje": 8.0,
+        "Recomendacion": "Diversión y creatividad en cada partida."
+    },
+    {
+        "Nombre": "Call of Duty: Warzone",
+        "Genero": "Battle Royale",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 8.8,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Intensa acción de guerra con mecánicas de batalla real."
+    },
+    {
+        "Nombre": "PUBG: Battlegrounds",
+        "Genero": "Battle Royale",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 7.5,
+        "Vandal": 8.0,
+        "Puntaje": 7.8,
+        "Recomendacion": "Juego clásico de batalla real con un enfoque táctico."
+    },
+    {
+        "Nombre": "Fall Guys: Ultimate Knockout",
+        "Genero": "Battle Royale",
+        "Plataforma": "PC, PlayStation 4",
+        "IGN": 8.0,
+        "Vandal": 8.2,
+        "Puntaje": 8.1,
+        "Recomendacion": "Un Battle Royale único con mini juegos y diversión sin fin."
+    },
+    {
+        "Nombre": "League of Legends",
+        "Genero": "MOBA",
+        "Plataforma": "PC",
+        "IGN": 9.5,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "El rey de los MOBA, con una comunidad activa y un juego de alta estrategia."
+    },
+    {
+        "Nombre": "Dota 2",
+        "Genero": "MOBA",
+        "Plataforma": "PC",
+        "IGN": 9.0,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "Juego profundo con una curva de aprendizaje desafiante."
+    },
+    {
+        "Nombre": "Smite",
+        "Genero": "MOBA",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 8.1,
+        "Vandal": 7.9,
+        "Puntaje": 8.0,
+        "Recomendacion": "MOBA en tercera persona con dioses y mitología."
+    },
+    {
+        "Nombre": "Heroes of the Storm",
+        "Genero": "MOBA",
+        "Plataforma": "PC",
+        "IGN": 8.3,
+        "Vandal": 8.1,
+        "Puntaje": 8.2,
+        "Recomendacion": "Un enfoque más accesible en el género MOBA de Blizzard."
+    },
+    {
+        "Nombre": "Vainglory",
+        "Genero": "MOBA",
+        "Plataforma": "iOS, Android",
+        "IGN": 8.6,
+        "Vandal": 8.4,
+        "Puntaje": 8.5,
+        "Recomendacion": "MOBA para dispositivos móviles, jugabilidad y estrategia sin igual."
+    },
+    {
+        "Nombre": "Super Mario Odyssey",
+        "Genero": "Plataforma",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Un clásico moderno de plataformas con gran diseño de niveles."
+    },
+    {
+        "Nombre": "Celeste",
+        "Genero": "Plataforma",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 9.7,
+        "Vandal": 9.6,
+        "Puntaje": 9.6,
+        "Recomendacion": "Desafiante, hermoso y emocionalmente profundo."
+    },
+    {
+        "Nombre": "Hollow Knight",
+        "Genero": "Plataforma",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 9.8,
+        "Vandal": 9.7,
+        "Puntaje": 9.8,
+        "Recomendacion": "Un juego de plataformas metroidvania impresionante."
+    },
+    {
+        "Nombre": "Inside",
+        "Genero": "Horror",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 9.4,
+        "Vandal": 9.2,
+        "Puntaje": 9.3,
+        "Recomendacion": "Un juego de plataformas con un tono oscuro y misterioso."
+    },
+    {
+        "Nombre": "Resident Evil 2 Remake",
+        "Genero": "Horror",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 9.5,
+        "Vandal": 9.4,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un remake sobresaliente de un clásico de horror."
+    },
+    {
+        "Nombre": "Outlast",
+        "Genero": "Horror",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 8.0,
+        "Vandal": 7.9,
+        "Puntaje": 7.9,
+        "Recomendacion": "Un juego de terror en primera persona lleno de suspenso."
+    },
+    {
+        "Nombre": "Little Nightmares",
+        "Genero": "Horror",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 8.5,
+        "Vandal": 8.3,
+        "Puntaje": 8.4,
+        "Recomendacion": "Un juego de terror con una atmósfera única y fascinante."
+    },
+    {
+        "Nombre": "The Evil Within",
+        "Genero": "Horror",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 8.7,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Un juego de horror psicológico con acción intensa."
+    },
+    {
+        "Nombre": "The Sims 4",
+        "Genero": "Simulación",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 8.0,
+        "Vandal": 7.5,
+        "Puntaje": 7.8,
+        "Recomendacion": "Simulación social y creativa, muy adictiva."
+    },
+    {
+        "Nombre": "Cities: Skylines",
+        "Genero": "Simulación",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Simulación de construcción de ciudades muy detallada."
+    },
+    {
+        "Nombre": "Farming Simulator 19",
+        "Genero": "Simulación",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 7.5,
+        "Vandal": 7.2,
+        "Puntaje": 7.4,
+        "Recomendacion": "Un simulador de vida agrícola con detalles realistas."
+    },
+    {
+        "Nombre": "Microsoft Flight Simulator",
+        "Genero": "Simulación",
+        "Plataforma": "PC, Xbox Series X",
+        "IGN": 9.5,
+        "Vandal": 9.4,
+        "Puntaje": 9.5,
+        "Recomendacion": "El simulador de vuelo más realista y espectacular."
+    },
+    {
+        "Nombre": "Dragon Quest XI S: Echoes of an Elusive Age",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, PlayStation 4, Nintendo Switch",
+        "IGN": 9.5,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un RPG clásico con una rica historia y gráficos impresionantes."
+    },
+    {
+        "Nombre": "Gris",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, PlayStation 4, Nintendo Switch",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Un juego de aventura gráfica emocional y visualmente hermoso."
+    },
+    {
+        "Nombre": "The Banner Saga",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 8.5,
+        "Vandal": 8.3,
+        "Puntaje": 8.4,
+        "Recomendacion": "Un juego de estrategia y aventura con una narrativa excepcional."
+    },
+    {
+        "Nombre": "Night in the Woods",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 8.9,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "Una aventura gráfica profunda con personajes entrañables."
+    },
+    {
+        "Nombre": "Cuphead",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 9.5,
+        "Vandal": 9.4,
+        "Puntaje": 9.5,
+        "Recomendacion": "Una aventura gráfica con un estilo de animación único y desafiante."
+    },
+    {
+        "Nombre": "Tekken 7",
+        "Genero": "Lucha",
+        "Plataforma": "PC, PlayStation 4, Xbox One",
+        "IGN": 8.8,
+        "Vandal": 8.7,
+        "Puntaje": 8.8,
+        "Recomendacion": "Un excelente juego de lucha con un gran elenco de personajes."
+    },
+    {
+        "Nombre": "Mortal Kombat 11",
+        "Genero": "Lucha",
+        "Plataforma": "PC, PlayStation 4, Xbox One, Nintendo Switch",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Un juego de lucha brutal con mecánicas pulidas y contenido variado."
+    },
+    {
+        "Nombre": "Street Fighter V",
+        "Genero": "Lucha",
+        "Plataforma": "PC, PlayStation 4",
+        "IGN": 8.2,
+        "Vandal": 8.0,
+        "Puntaje": 8.1,
+        "Recomendacion": "El icónico juego de lucha con mecánicas modernas."
+    },
+    {
+        "Nombre": "Guilty Gear Strive",
+        "Genero": "Lucha",
+        "Plataforma": "PC, PlayStation 4, PlayStation 5",
+        "IGN": 9.3,
+        "Vandal": 9.1,
+        "Puntaje": 9.2,
+        "Recomendacion": "Un juego de lucha visualmente impresionante y técnicamente sólido."
+    },
+    {
+        "Nombre": "League of Legends",
+        "Genero": "MOBA",
+        "Plataforma": "PC",
+        "IGN": 9.5,
+        "Vandal": 9.0,
+        "Puntaje": 9.2,
+        "Recomendacion": "Uno de los MOBAs más populares del mundo, ideal para los amantes de la estrategia en tiempo real y el trabajo en equipo."
+      },
+      {
+        "Nombre": "Dota 2",
+        "Genero": "MOBA",
+        "Plataforma": "PC",
+        "IGN": 9.0,
+        "Vandal": 9.5,
+        "Puntaje": 9.3,
+        "Recomendacion": "El clásico juego de estrategia en tiempo real con una base de jugadores dedicada y complejidad estratégica profunda."
+      },
+      {
+        "Nombre": "Smite",
+        "Genero": "MOBA",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 8.5,
+        "Vandal": 8.0,
+        "Puntaje": 8.2,
+        "Recomendacion": "Un MOBA diferente en tercera persona, con mitología como tema central."
+      },
+      {
+        "Nombre": "Heroes of the Storm",
+        "Genero": "MOBA",
+        "Plataforma": "PC",
+        "IGN": 7.5,
+        "Vandal": 8.2,
+        "Puntaje": 7.8,
+        "Recomendacion": "Un juego de MOBA con personajes de los universos de Blizzard, más accesible pero con una jugabilidad entretenida."
+      },
+      {
+        "Nombre": "Arena of Valor",
+        "Genero": "MOBA",
+        "Plataforma": "Smartphone, Switch",
+        "IGN": 8.0,
+        "Vandal": 8.3,
+        "Puntaje": 8.1,
+        "Recomendacion": "Un MOBA rápido y accesible para jugar en dispositivos móviles con mecánicas sencillas."
+      },
+      {
+        "Nombre": "Resident Evil Village",
+        "Genero": "Horror",
+        "Plataforma": "PC, PS5, Xbox Series X",
+        "IGN": 9.0,
+        "Vandal": 9.3,
+        "Puntaje": 9.1,
+        "Recomendacion": "Una entrega de la saga que ofrece una experiencia de terror y acción intensa con gráficos impresionantes."
+      },
+      {
+        "Nombre": "Amnesia: The Dark Descent",
+        "Genero": "Horror",
+        "Plataforma": "PC, PS4",
+        "IGN": 8.8,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Un juego de terror psicológico que te mantiene en tensión constante con una historia aterradora."
+      },
+      {
+        "Nombre": "Outlast",
+        "Genero": "Horror",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 8.5,
+        "Vandal": 8.0,
+        "Puntaje": 8.3,
+        "Recomendacion": "Un juego de terror de supervivencia en el que no puedes luchar, solo huir y esconderte."
+      },
+      {
+        "Nombre": "Silent Hill 2",
+        "Genero": "Horror",
+        "Plataforma": "PS2, PC",
+        "IGN": 9.7,
+        "Vandal": 9.6,
+        "Puntaje": 9.6,
+        "Recomendacion": "Un clásico de terror psicológico que sigue siendo un referente del género."
+      },
+      {
+        "Nombre": "Phasmophobia",
+        "Genero": "Horror",
+        "Plataforma": "PC",
+        "IGN": 7.8,
+        "Vandal": 8.3,
+        "Puntaje": 8.0,
+        "Recomendacion": "Un juego cooperativo de terror donde los jugadores investigan lugares embrujados, enfrentándose a fantasmas."
+      },
+      {
+        "Nombre": "Call of Duty: Modern Warfare II",
+        "Genero": "Shooter",
+        "Plataforma": "PC, PS5, Xbox Series X",
+        "IGN": 8.5,
+        "Vandal": 8.8,
+        "Puntaje": 8.7,
+        "Recomendacion": "Un shooter de acción rápida con una campaña emocionante y multijugador adictivo."
+      },
+      {
+        "Nombre": "DOOM Eternal",
+        "Genero": "Shooter",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 9.5,
+        "Puntaje": 9.3,
+        "Recomendacion": "Un shooter rápido y frenético con una excelente jugabilidad y combate, ideal para los fanáticos del género."
+      },
+      {
+        "Nombre": "Valorant",
+        "Genero": "Shooter",
+        "Plataforma": "PC",
+        "IGN": 9.0,
+        "Vandal": 9.0,
+        "Puntaje": 9.0,
+        "Recomendacion": "Un juego de disparos táctico de 5v5 con héroes, estrategia y un gran enfoque en la precisión."
+      },
+      {
+        "Nombre": "Apex Legends",
+        "Genero": "Shooter",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 8.8,
+        "Vandal": 8.7,
+        "Puntaje": 8.75,
+        "Recomendacion": "Un Battle Royale gratuito con acción rápida y habilidades únicas de personajes."
+      },
+      {
+        "Nombre": "Rainbow Six Siege",
+        "Genero": "Shooter",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 8.0,
+        "Vandal": 7.8,
+        "Puntaje": 7.9,
+        "Recomendacion": "Un shooter táctico en el que la cooperación es clave para el éxito en sus intensos enfrentamientos."
+      },
+      {
+        "Nombre": "Grand Theft Auto V",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PC, PS5, Xbox Series X",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Un juego de mundo abierto icónico, con una historia envolvente y un sinfín de actividades para explorar."
+      },
+      {
+        "Nombre": "The Witcher 3: Wild Hunt",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PC, PS5, Xbox Series X",
+        "IGN": 9.7,
+        "Vandal": 9.5,
+        "Puntaje": 9.6,
+        "Recomendacion": "Un RPG de mundo abierto con una historia profunda y un mundo lleno de detalles para descubrir."
+      },
+      {
+        "Nombre": "Red Dead Redemption 2",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PS4, Xbox One, PC",
+        "IGN": 9.8,
+        "Vandal": 9.9,
+        "Puntaje": 9.85,
+        "Recomendacion": "Una experiencia inmersiva en el Lejano Oeste, con una narrativa y gráficos de otro nivel."
+      },
+      {
+        "Nombre": "Minecraft",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 9.2,
+        "Puntaje": 9.1,
+        "Recomendacion": "Un sandbox infinito donde la creatividad no tiene límites, ideal para todos los públicos."
+      },
+      {
+        "Nombre": "Watch Dogs: Legion",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PC, PS5, Xbox Series X",
+        "IGN": 8.0,
+        "Vandal": 8.5,
+        "Puntaje": 8.3,
+        "Recomendacion": "Un mundo abierto en Londres donde puedes controlar a cualquier personaje, con una jugabilidad innovadora."
+      },
+      {
+        "Nombre": "Far Cry 5",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 8.5,
+        "Vandal": 8.3,
+        "Puntaje": 8.4,
+        "Recomendacion": "Acción y exploración en un mundo abierto con una historia en la que enfrentas una secta apocalíptica."
+      },
+      {
+        "Nombre": "Assassin's Creed Odyssey",
+        "Genero": "Mundo Abierto",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Un mundo abierto ambientado en la antigua Grecia, con mucha acción y exploración."
+      },
+      {
+        "Nombre": "Civilization VI",
+        "Genero": "Estrategia",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.5,
+        "Vandal": 9.2,
+        "Puntaje": 9.4,
+        "Recomendacion": "Un juego de estrategia por turnos donde debes construir y expandir tu civilización desde cero."
+      },
+      {
+        "Nombre": "Starcraft II",
+        "Genero": "Estrategia",
+        "Plataforma": "PC",
+        "IGN": 9.7,
+        "Vandal": 9.5,
+        "Puntaje": 9.6,
+        "Recomendacion": "El clásico RTS de ciencia ficción con una jugabilidad impecable y una historia épica."
+      },
+      {
+        "Nombre": "Age of Empires IV",
+        "Genero": "Estrategia",
+        "Plataforma": "PC",
+        "IGN": 8.5,
+        "Vandal": 8.7,
+        "Puntaje": 8.6,
+        "Recomendacion": "Un regreso a las raíces del RTS con mecánicas de juego tradicionales y gráficos renovados."
+      },
+      {
+        "Nombre": "Total War: Three Kingdoms",
+        "Genero": "Estrategia",
+        "Plataforma": "PC",
+        "IGN": 9.2,
+        "Vandal": 9.0,
+        "Puntaje": 9.1,
+        "Recomendacion": "Una mezcla de batallas épicas y gestión de imperios en el contexto histórico de la antigua China."
+      },
+      {
+        "Nombre": "XCOM 2",
+        "Genero": "Estrategia",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Un juego de estrategia táctica donde debes defender a la humanidad de una invasión alienígena."
+      },
+      {
+        "Nombre": "Planet Coaster",
+        "Genero": "Estrategia",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 8.5,
+        "Vandal": 8.6,
+        "Puntaje": 8.55,
+        "Recomendacion": "Construye y gestiona tu propio parque de diversiones en este juego de simulación y estrategia."
+      },
+      {
+        "Nombre": "Anno 1800",
+        "Genero": "Estrategia",
+        "Plataforma": "PC",
+        "IGN": 8.7,
+        "Vandal": 8.5,
+        "Puntaje": 8.6,
+        "Recomendacion": "Una experiencia de simulación de construcción de ciudades ambientada en la Revolución Industrial."
+      },
+      {
+        "Nombre": "Uncharted 4: A Thief's End",
+        "Genero": "Acción",
+        "Plataforma": "PS4",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Una de las mejores aventuras de acción, con una historia envolvente y unos gráficos excepcionales."
+      },
+      {
+        "Nombre": "God of War (2018)",
+        "Genero": "Acción",
+        "Plataforma": "PS4, PC",
+        "IGN": 9.5,
+        "Vandal": 9.6,
+        "Puntaje": 9.55,
+        "Recomendacion": "Una aventura de acción y mitología nórdica con un combate espectacular y una narrativa épica."
+      },
+      {
+        "Nombre": "Sekiro: Shadows Die Twice",
+        "Genero": "Acción",
+        "Plataforma": "PS4, Xbox One, PC",
+        "IGN": 9.7,
+        "Vandal": 9.5,
+        "Puntaje": 9.6,
+        "Recomendacion": "Un desafiante juego de acción con combate brutal y una historia única de samuráis."
+      },
+      {
+        "Nombre": "Spider-Man (PS4)",
+        "Genero": "Acción",
+        "Plataforma": "PS4",
+        "IGN": 9.0,
+        "Vandal": 9.2,
+        "Puntaje": 9.1,
+        "Recomendacion": "Un juego de acción y aventura en el que puedes explorar Nueva York como Spider-Man, con un sistema de combate impresionante."
+      },
+      {
+        "Nombre": "Batman: Arkham City",
+        "Genero": "Acción",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.2,
+        "Vandal": 9.4,
+        "Puntaje": 9.3,
+        "Recomendacion": "Una aventura de acción con Batman, con una gran historia y una jugabilidad que define el género."
+      },
+      {
+        "Nombre": "Horizon Zero Dawn",
+        "Genero": "Acción",
+        "Plataforma": "PS4, PC",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una aventura de acción en un mundo post-apocalíptico con una protagonista fuerte y una jugabilidad dinámica."
+      },
+      {
+        "Nombre": "The Legend of Zelda: Breath of the Wild",
+        "Genero": "Acción",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 10.0,
+        "Vandal": 9.9,
+        "Puntaje": 9.95,
+        "Recomendacion": "Un juego de acción y aventura en un vasto mundo abierto, considerado uno de los mejores de todos los tiempos."
+      },
+      {
+        "Nombre": "The Legend of Zelda: Breath of the Wild",
+        "Genero": "Aventura",
+        "Plataforma": "Nintendo Switch",
+        "IGN": 10.0,
+        "Vandal": 9.7,
+        "Puntaje": 9.85,
+        "Recomendacion": "Una de las aventuras más innovadoras, con un mundo abierto por explorar y mecánicas de juego únicas."
+      },
+      {
+        "Nombre": "Uncharted 4: A Thief's End",
+        "Genero": "Aventura",
+        "Plataforma": "PS4",
+        "IGN": 9.5,
+        "Vandal": 9.3,
+        "Puntaje": 9.4,
+        "Recomendacion": "Una experiencia cinematográfica con personajes carismáticos y escenarios impresionantes."
+      },
+      {
+        "Nombre": "Tibia",
+        "Genero": "Aventura",
+        "Plataforma": "PC",
+        "IGN": 8.0,
+        "Vandal": 8.5,
+        "Puntaje": 8.3,
+        "Recomendacion": "Un MMORPG clásico con un mundo expansivo, mucha exploración y una comunidad activa."
+      },
+      {
+        "Nombre": "Tomb Raider (2013)",
+        "Genero": "Aventura",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 8.8,
+        "Puntaje": 8.9,
+        "Recomendacion": "Una reinvención de Lara Croft, con mecánicas de supervivencia y una historia de aventura emocionante."
+      },
+      {
+        "Nombre": "The Last of Us",
+        "Genero": "Aventura",
+        "Plataforma": "PS3, PS4",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Un juego profundamente emotivo, con una narrativa de supervivencia y relación humana impresionante."
+      },
+      {
+        "Nombre": "Assassin's Creed Odyssey",
+        "Genero": "Aventura",
+        "Plataforma": "PC, PS4, Xbox One",
+        "IGN": 9.0,
+        "Vandal": 8.9,
+        "Puntaje": 8.95,
+        "Recomendacion": "Una épica aventura ambientada en la antigua Grecia, con una gran cantidad de misiones secundarias y personalización."
+      },
+      {
+        "Nombre": "Hollow Knight",
+        "Genero": "Aventura",
+        "Plataforma": "PC, Nintendo Switch",
+        "IGN": 9.5,
+        "Vandal": 9.4,
+        "Puntaje": 9.45,
+        "Recomendacion": "Un juego de aventura metroidvania con una atmósfera única y un desafío gratificante."
+      },
+      {
+        "Nombre": "Red Dead Redemption 2",
+        "Genero": "Aventura",
+        "Plataforma": "PS4, Xbox One, PC",
+        "IGN": 10.0,
+        "Vandal": 9.9,
+        "Puntaje": 9.95,
+        "Recomendacion": "Una obra maestra de aventura en un mundo abierto con un nivel de detalle y narrativa impresionante."
+      },
+      {
+        "Nombre": "The Witcher 3: Wild Hunt",
+        "Genero": "Aventura",
+        "Plataforma": "PS4, Xbox One, PC",
+        "IGN": 10.0,
+        "Vandal": 9.8,
+        "Puntaje": 9.9,
+        "Recomendacion": "Una aventura épica llena de narrativa profunda, misiones secundarias y un mundo vibrante y expansivo."
+      },
+      {
+        "Nombre": "The Elder Scrolls V: Skyrim",
+        "Genero": "Aventura",
+        "Plataforma": "PC, PS4, Xbox One, Switch",
+        "IGN": 9.5,
+        "Vandal": 9.4,
+        "Puntaje": 9.45,
+        "Recomendacion": "Un clásico RPG de aventura con un mundo masivo y muchas opciones de exploración."
+      },
+      {
+        "Nombre": "Journey",
+        "Genero": "Aventura",
+        "Plataforma": "PS3, PS4",
+        "IGN": 9.5,
+        "Vandal": 9.6,
+        "Puntaje": 9.55,
+        "Recomendacion": "Una experiencia única, corta pero profundamente emocional, con un estilo artístico impresionante."
+      },
+      {
+        "Nombre": "Grim Fandango Remastered",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PC, PS4, Xbox One, Switch",
+        "IGN": 9.0,
+        "Vandal": 8.7,
+        "Puntaje": 8.85,
+        "Recomendacion": "Un clásico de las aventuras gráficas con una historia única y un estilo artístico distintivo."
+      },
+      {
+        "Nombre": "Ni No Kuni II: Revenant Kingdom",
+        "Genero": "Aventura",
+        "Plataforma": "PS4, PC",
+        "IGN": 8.8,
+        "Vandal": 8.6,
+        "Puntaje": 8.7,
+        "Recomendacion": "Una aventura con toques de fantasía y magia, basada en un mundo colorido y personajes encantadores."
+      },
+      {
+        "Nombre": "Life is Strange",
+        "Genero": "Aventura Gráfica",
+        "Plataforma": "PS4, Xbox One, PC",
+        "IGN": 8.5,
+        "Vandal": 8.4,
+        "Puntaje": 8.45,
+        "Recomendacion": "Un juego narrativo que mezcla elementos sobrenaturales con una historia emocionalmente impactante."
+      }
+    
+  
+]
