@@ -1,352 +1,44 @@
 [
     {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:24:35",
-        "Recomendacion": "FIFA 22 (Playstation 5) - Recomendaci\u00f3n: Excelente juego de f\u00fatbol con gr\u00e1ficos realistas y modos de juego variados.\nFIFA 24 (Playstation 5, Xbox Series X|S, PC, Nintendo Switch) - Recomendaci\u00f3n: El mejor simulador de f\u00fatbol con mejoras en jugabilidad y modos de juego.\nMadden NFL 23 (Playstation 5, Xbox Series X|S, PC) - Recomendaci\u00f3n: Un juego de f\u00fatbol americano con mec\u00e1nicas mejoradas y gr\u00e1ficos impresionantes."
+        "Nombre": "asafran",
+        "Correo": "ad@gmail.com",
+        "Edad": 22,
+        "Fecha_Hora": "2025-03-22 12:12:21",
+        "Recomendacion": "Tears of the Kingdom: DLC (Nintendo Switch) - IGN: 9.4 - Vandal: 9.3 - Recomendaci\u00f3n: Expansi\u00f3n para el aclamado juego con nuevos puzzles, personajes y habilidades.\nThe Legend of Zelda: Breath of the Wild (Nintendo Switch) - IGN: 10.0 - Vandal: 9.7 - Recomendaci\u00f3n: Una de las aventuras m\u00e1s innovadoras, con un mundo abierto por explorar y mec\u00e1nicas de juego \u00fanicas.\nUncharted 4: A Thief's End (PS4) - IGN: 9.5 - Vandal: 9.3 - Recomendaci\u00f3n: Una experiencia cinematogr\u00e1fica con personajes carism\u00e1ticos y escenarios impresionantes."
     },
     {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:28:31",
-        "Recomendacion": "Call of Duty: Modern Warfare III (Playstation 5, Xbox Series X|S, PC) - Recomendaci\u00f3n: La aclamada saga de shooter en primera persona regresa con una nueva campa\u00f1a y multijugador.\nCall of Duty: Warzone (PC, Playstation 4, Xbox One) - Recomendaci\u00f3n: Un juego de batalla real con acci\u00f3n r\u00e1pida y un enfoque en el combate t\u00e1ctico.\nDOOM Eternal (PC, Playstation 5, Xbox Series X|S) - Recomendaci\u00f3n: Un shooter r\u00e1pido y brutal con una banda sonora incre\u00edble y combate fren\u00e9tico."
+        "Nombre": "fran",
+        "Correo": "fran",
+        "Edad": 22,
+        "Fecha_Hora": "2025-03-22 12:12:50",
+        "Recomendacion": "FIFA 22 (Playstation 5) - IGN: 8.0 - Vandal: 7.9 - Recomendaci\u00f3n: Excelente juego de f\u00fatbol con gr\u00e1ficos realistas y modos de juego variados.\nFIFA 24 (Playstation 5, Xbox Series X|S, PC, Nintendo Switch) - IGN: 8.2 - Vandal: 7.9 - Recomendaci\u00f3n: El mejor simulador de f\u00fatbol con mejoras en jugabilidad y modos de juego.\nMadden NFL 23 (Playstation 5, Xbox Series X|S, PC) - IGN: 8.0 - Vandal: 7.8 - Recomendaci\u00f3n: Un juego de f\u00fatbol americano con mec\u00e1nicas mejoradas y gr\u00e1ficos impresionantes."
     },
     {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:28:42",
-        "Recomendacion": "The Witcher 3 (PC) - Recomendaci\u00f3n: Un juego de rol inmersivo con una historia \u00e9pica y un mundo abierto enorme.\nBlack Myth Wukong (Playstation 5) - Recomendaci\u00f3n: Excelente, obra maestra\nStarfield (PC, Xbox Series X|S) - Recomendaci\u00f3n: Un juego de rol espacial con un universo expansivo lleno de misiones y exploraci\u00f3n."
+        "Nombre": "fran",
+        "Correo": "fran",
+        "Edad": 22,
+        "Fecha_Hora": "2025-03-22 12:14:54",
+        "Recomendacion": "FIFA 22 (Playstation 5) - IGN: 8.0 - Vandal: 7.9 - Recomendaci\u00f3n: Excelente juego de f\u00fatbol con gr\u00e1ficos realistas y modos de juego variados.\nFIFA 24 (Playstation 5, Xbox Series X|S, PC, Nintendo Switch) - IGN: 8.2 - Vandal: 7.9 - Recomendaci\u00f3n: El mejor simulador de f\u00fatbol con mejoras en jugabilidad y modos de juego.\nMadden NFL 23 (Playstation 5, Xbox Series X|S, PC) - IGN: 8.0 - Vandal: 7.8 - Recomendaci\u00f3n: Un juego de f\u00fatbol americano con mec\u00e1nicas mejoradas y gr\u00e1ficos impresionantes."
     },
     {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:28:53",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
+        "Nombre": "fran",
+        "Correo": "fran",
+        "Edad": 22,
+        "Fecha_Hora": "2025-03-22 12:14:54",
+        "Recomendacion": "FIFA 22 (Playstation 5) - IGN: 8.0 - Vandal: 7.9 - Recomendaci\u00f3n: Excelente juego de f\u00fatbol con gr\u00e1ficos realistas y modos de juego variados.\nFIFA 24 (Playstation 5, Xbox Series X|S, PC, Nintendo Switch) - IGN: 8.2 - Vandal: 7.9 - Recomendaci\u00f3n: El mejor simulador de f\u00fatbol con mejoras en jugabilidad y modos de juego.\nMadden NFL 23 (Playstation 5, Xbox Series X|S, PC) - IGN: 8.0 - Vandal: 7.8 - Recomendaci\u00f3n: Un juego de f\u00fatbol americano con mec\u00e1nicas mejoradas y gr\u00e1ficos impresionantes."
     },
     {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:28:55",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
+        "Nombre": "fran",
+        "Correo": "fran",
+        "Edad": 22,
+        "Fecha_Hora": "2025-03-22 12:14:58",
+        "Recomendacion": "The Witcher 3 (PC) - IGN: 9.8 - Vandal: 9.5 - Recomendaci\u00f3n: Un juego de rol inmersivo con una historia \u00e9pica y un mundo abierto enorme.\nBlack Myth Wukong (Playstation 5) - IGN: 10.0 - Vandal: 10.0 - Recomendaci\u00f3n: Excelente, obra maestra\nStarfield (PC, Xbox Series X|S) - IGN: 9.5 - Vandal: 9.3 - Recomendaci\u00f3n: Un juego de rol espacial con un universo expansivo lleno de misiones y exploraci\u00f3n."
     },
     {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:01",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:08",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:11",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:13",
-        "Recomendacion": "Gran Turismo 7 (Playstation 5, Playstation 4) - Recomendaci\u00f3n: El simulador de carreras m\u00e1s realista con gr\u00e1ficos impresionantes y una amplia selecci\u00f3n de autos.\nForza Motorsport 8 (Xbox Series X|S, PC) - Recomendaci\u00f3n: El simulador de carreras definitivo con gr\u00e1ficos ultra realistas y una gran variedad de autos.\nGran Turismo 8 (Playstation 5, Xbox Series X|S) - Recomendaci\u00f3n: La nueva entrega de Gran Turismo con autos realistas, circuitos y una experiencia de conducci\u00f3n impresionante."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:34",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:35",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:39",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:41",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "alfredus",
-        "Correo": "alfredus1@gmail.com",
-        "Edad": 45,
-        "Fecha_Hora": "2025-03-18 12:29:43",
-        "Recomendacion": "Grim Fandango Remastered (PC, Playstation 4, Switch) - Recomendaci\u00f3n: Un juego de aventura gr\u00e1fico con una historia fant\u00e1stica y mec\u00e1nicas cl\u00e1sicas.\nDragon Quest XI S: Echoes of an Elusive Age (PC, PlayStation 4, Nintendo Switch) - Recomendaci\u00f3n: Un RPG cl\u00e1sico con una rica historia y gr\u00e1ficos impresionantes.\nCuphead (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Una aventura gr\u00e1fica con un estilo de animaci\u00f3n \u00fanico y desafiante."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:36:32",
-        "Recomendacion": "League of Legends (PC) - Recomendaci\u00f3n: El rey de los MOBA, con una comunidad activa y un juego de alta estrategia.\nDota 2 (PC) - Recomendaci\u00f3n: Juego profundo con una curva de aprendizaje desafiante.\nSmite (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: MOBA en tercera persona con dioses y mitolog\u00eda."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:36:41",
-        "Recomendacion": "Inside (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Un juego de plataformas con un tono oscuro y misterioso.\nResident Evil 2 Remake (PC, PlayStation 4, Xbox One) - Recomendaci\u00f3n: Un remake sobresaliente de un cl\u00e1sico de horror.\nLittle Nightmares (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Un juego de terror con una atm\u00f3sfera \u00fanica y fascinante."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:36:54",
-        "Recomendacion": "Super Mario Odyssey (Nintendo Switch) - Recomendaci\u00f3n: Un cl\u00e1sico moderno de plataformas con gran dise\u00f1o de niveles.\nCeleste (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Desafiante, hermoso y emocionalmente profundo.\nHollow Knight (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Un juego de plataformas metroidvania impresionante."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:36:58",
-        "Recomendacion": "FIFA 22 (Playstation 5) - Recomendaci\u00f3n: Excelente juego de f\u00fatbol con gr\u00e1ficos realistas y modos de juego variados.\nFIFA 24 (Playstation 5, Xbox Series X|S, PC, Nintendo Switch) - Recomendaci\u00f3n: El mejor simulador de f\u00fatbol con mejoras en jugabilidad y modos de juego.\nF1 2021 (PC, Playstation 5, Xbox Series X|S) - Recomendaci\u00f3n: El mejor simulador de F\u00f3rmula 1 con una excelente f\u00edsica y experiencia realista."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:37:29",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:37:44",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:37:44",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:37:44",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:38:03",
-        "Recomendacion": "Call of Duty: Modern Warfare III (Playstation 5, Xbox Series X|S, PC) - Recomendaci\u00f3n: La aclamada saga de shooter en primera persona regresa con una nueva campa\u00f1a y multijugador.\nCall of Duty: Warzone (PC, Playstation 4, Xbox One) - Recomendaci\u00f3n: Un juego de batalla real con acci\u00f3n r\u00e1pida y un enfoque en el combate t\u00e1ctico.\nDOOM Eternal (PC, Playstation 5, Xbox Series X|S) - Recomendaci\u00f3n: Un shooter r\u00e1pido y brutal con una banda sonora incre\u00edble y combate fren\u00e9tico."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:38:06",
-        "Recomendacion": "SimCity 4 (PC) - Recomendaci\u00f3n: Un cl\u00e1sico simulador de ciudad con una jugabilidad adictiva y mucha profundidad.\nCities: Skylines (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Simulaci\u00f3n de construcci\u00f3n de ciudades muy detallada.\nMicrosoft Flight Simulator (PC, Xbox Series X) - Recomendaci\u00f3n: El simulador de vuelo m\u00e1s realista y espectacular."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:38:12",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "SABAN",
-        "Correo": "saban@hotmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:38:25",
-        "Recomendacion": "Apex Legends (PC, PlayStation 4, Xbox One) - Recomendaci\u00f3n: Juego r\u00e1pido, emocionante y competitivo.\nFortnite (PC, PlayStation 5, Xbox Series X, Nintendo Switch) - Recomendaci\u00f3n: Diversi\u00f3n y creatividad en cada partida.\nCall of Duty: Warzone (PC, PlayStation 4, Xbox One) - Recomendaci\u00f3n: Intensa acci\u00f3n de guerra con mec\u00e1nicas de batalla real."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:40:56",
-        "Recomendacion": "Civilization VI (PC, Switch, Xbox One, Playstation 4) - Recomendaci\u00f3n: Un juego de estrategia donde lideras una civilizaci\u00f3n desde la Edad de Piedra hasta el futuro.\nXCOM 2 (PC, Playstation 4, Xbox One) - Recomendaci\u00f3n: Un juego de t\u00e1ctica por turnos con una campa\u00f1a desafiante y una gran rejugabilidad.\nCivilization VI (PC, PS4, Xbox One) - Recomendaci\u00f3n: Un juego de estrategia por turnos donde debes construir y expandir tu civilizaci\u00f3n desde cero."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:06",
-        "Recomendacion": "SimCity 4 (PC) - Recomendaci\u00f3n: Un cl\u00e1sico simulador de ciudad con una jugabilidad adictiva y mucha profundidad.\nCities: Skylines (PC, PlayStation 4, Xbox One, Nintendo Switch) - Recomendaci\u00f3n: Simulaci\u00f3n de construcci\u00f3n de ciudades muy detallada.\nMicrosoft Flight Simulator (PC, Xbox Series X) - Recomendaci\u00f3n: El simulador de vuelo m\u00e1s realista y espectacular."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:24",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:25",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:25",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:25",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:25",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:25",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:26",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "AHAEL",
-        "Correo": "azazel@gmail.com",
-        "Edad": 19,
-        "Fecha_Hora": "2025-03-18 12:41:26",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "asken",
-        "Correo": "skeen@gmail.com",
-        "Edad": 38,
-        "Fecha_Hora": "2025-03-18 12:43:53",
-        "Recomendacion": "Tears of the Kingdom: DLC (Nintendo Switch) - Recomendaci\u00f3n: Expansi\u00f3n para el aclamado juego con nuevos puzzles, personajes y habilidades.\nThe Legend of Zelda: Breath of the Wild (Nintendo Switch) - Recomendaci\u00f3n: Una de las aventuras m\u00e1s innovadoras, con un mundo abierto por explorar y mec\u00e1nicas de juego \u00fanicas.\nUncharted 4: A Thief's End (PS4) - Recomendaci\u00f3n: Una experiencia cinematogr\u00e1fica con personajes carism\u00e1ticos y escenarios impresionantes."
-    },
-    {
-        "Nombre": "ahayt",
-        "Correo": "hayat123@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:51:48",
-        "Recomendacion": "Civilization VI (PC, Switch, Xbox One, Playstation 4) - IGN: 9.5 - Vandal: 9.0 - Recomendaci\u00f3n: Un juego de estrategia donde lideras una civilizaci\u00f3n desde la Edad de Piedra hasta el futuro.\nXCOM 2 (PC, Playstation 4, Xbox One) - IGN: 9.3 - Vandal: 9.2 - Recomendaci\u00f3n: Un juego de t\u00e1ctica por turnos con una campa\u00f1a desafiante y una gran rejugabilidad.\nCivilization VI (PC, PS4, Xbox One) - IGN: 9.5 - Vandal: 9.2 - Recomendaci\u00f3n: Un juego de estrategia por turnos donde debes construir y expandir tu civilizaci\u00f3n desde cero."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:57:39",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 12:57:44",
-        "Recomendacion": "Apex Legends (PC, PlayStation 4, Xbox One) - IGN: 9.2 - Vandal: 8.9 - Recomendaci\u00f3n: Juego r\u00e1pido, emocionante y competitivo.\nFortnite (PC, PlayStation 5, Xbox Series X, Nintendo Switch) - IGN: 8.5 - Vandal: 7.8 - Recomendaci\u00f3n: Diversi\u00f3n y creatividad en cada partida.\nCall of Duty: Warzone (PC, PlayStation 4, Xbox One) - IGN: 8.8 - Vandal: 8.5 - Recomendaci\u00f3n: Intensa acci\u00f3n de guerra con mec\u00e1nicas de batalla real."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:09:14",
-        "Recomendacion": "Apex Legends (PC, PlayStation 4, Xbox One) - IGN: 9.2 - Vandal: 8.9 - Recomendaci\u00f3n: Juego r\u00e1pido, emocionante y competitivo.\nFortnite (PC, PlayStation 5, Xbox Series X, Nintendo Switch) - IGN: 8.5 - Vandal: 7.8 - Recomendaci\u00f3n: Diversi\u00f3n y creatividad en cada partida.\nCall of Duty: Warzone (PC, PlayStation 4, Xbox One) - IGN: 8.8 - Vandal: 8.5 - Recomendaci\u00f3n: Intensa acci\u00f3n de guerra con mec\u00e1nicas de batalla real."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:09:15",
-        "Recomendacion": "Apex Legends (PC, PlayStation 4, Xbox One) - IGN: 9.2 - Vandal: 8.9 - Recomendaci\u00f3n: Juego r\u00e1pido, emocionante y competitivo.\nFortnite (PC, PlayStation 5, Xbox Series X, Nintendo Switch) - IGN: 8.5 - Vandal: 7.8 - Recomendaci\u00f3n: Diversi\u00f3n y creatividad en cada partida.\nCall of Duty: Warzone (PC, PlayStation 4, Xbox One) - IGN: 8.8 - Vandal: 8.5 - Recomendaci\u00f3n: Intensa acci\u00f3n de guerra con mec\u00e1nicas de batalla real."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:09:15",
-        "Recomendacion": "Apex Legends (PC, PlayStation 4, Xbox One) - IGN: 9.2 - Vandal: 8.9 - Recomendaci\u00f3n: Juego r\u00e1pido, emocionante y competitivo.\nFortnite (PC, PlayStation 5, Xbox Series X, Nintendo Switch) - IGN: 8.5 - Vandal: 7.8 - Recomendaci\u00f3n: Diversi\u00f3n y creatividad en cada partida.\nCall of Duty: Warzone (PC, PlayStation 4, Xbox One) - IGN: 8.8 - Vandal: 8.5 - Recomendaci\u00f3n: Intensa acci\u00f3n de guerra con mec\u00e1nicas de batalla real."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:09:18",
-        "Recomendacion": "Tetris Effect: Connected (Playstation 5, Xbox Series X|S, PC) - IGN: 8.7 - Vandal: 8.5 - Recomendaci\u00f3n: Una versi\u00f3n moderna de Tetris con gr\u00e1ficos alucinantes y modos multijugador.\nThe Witness (PC, Playstation 4, Xbox One) - IGN: 9.5 - Vandal: 9.3 - Recomendaci\u00f3n: Un juego de puzzles filos\u00f3fico con un mundo abierto y acertijos desafiantes.\nPortal 2 (PC, Playstation 3, Xbox 360) - IGN: 9.7 - Vandal: 9.6 - Recomendaci\u00f3n: Un juego de puzzles brillante que combina historia, humor y mec\u00e1nicas innovadoras."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:09:54",
-        "Recomendacion": "Grand Theft Auto V (PC, PS5, Xbox Series X) - IGN: 10.0 - Vandal: 9.8 - Recomendaci\u00f3n: Un juego de mundo abierto ic\u00f3nico, con una historia envolvente y un sinf\u00edn de actividades para explorar.\nThe Witcher 3: Wild Hunt (PC, PS5, Xbox Series X) - IGN: 9.7 - Vandal: 9.5 - Recomendaci\u00f3n: Un RPG de mundo abierto con una historia profunda y un mundo lleno de detalles para descubrir.\nRed Dead Redemption 2 (PS4, Xbox One, PC) - IGN: 9.8 - Vandal: 9.9 - Recomendaci\u00f3n: Una experiencia inmersiva en el Lejano Oeste, con una narrativa y gr\u00e1ficos de otro nivel."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:10:02",
-        "Recomendacion": "League of Legends (PC) - IGN: 9.5 - Vandal: 9.3 - Recomendaci\u00f3n: El rey de los MOBA, con una comunidad activa y un juego de alta estrategia.\nDota 2 (PC) - IGN: 9.0 - Vandal: 8.7 - Recomendaci\u00f3n: Juego profundo con una curva de aprendizaje desafiante.\nSmite (PC, PlayStation 4, Xbox One, Nintendo Switch) - IGN: 8.1 - Vandal: 7.9 - Recomendaci\u00f3n: MOBA en tercera persona con dioses y mitolog\u00eda."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:10:30",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:10:34",
-        "Recomendacion": "No hay suficientes videojuegos para recomendar."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:10:37",
-        "Recomendacion": "Inside (PC, PlayStation 4, Xbox One, Nintendo Switch) - IGN: 9.4 - Vandal: 9.2 - Recomendaci\u00f3n: Un juego de plataformas con un tono oscuro y misterioso.\nResident Evil 2 Remake (PC, PlayStation 4, Xbox One) - IGN: 9.5 - Vandal: 9.4 - Recomendaci\u00f3n: Un remake sobresaliente de un cl\u00e1sico de horror.\nResident Evil Village (PC, PS5, Xbox Series X) - IGN: 9.0 - Vandal: 9.3 - Recomendaci\u00f3n: Una entrega de la saga que ofrece una experiencia de terror y acci\u00f3n intensa con gr\u00e1ficos impresionantes."
-    },
-    {
-        "Nombre": "as",
-        "Correo": "as@gmail.com",
-        "Edad": 25,
-        "Fecha_Hora": "2025-03-18 13:10:44",
-        "Recomendacion": "Inside (PC, PlayStation 4, Xbox One, Nintendo Switch) - IGN: 9.4 - Vandal: 9.2 - Recomendaci\u00f3n: Un juego de plataformas con un tono oscuro y misterioso.\nResident Evil 2 Remake (PC, PlayStation 4, Xbox One) - IGN: 9.5 - Vandal: 9.4 - Recomendaci\u00f3n: Un remake sobresaliente de un cl\u00e1sico de horror.\nOutlast (PC, PlayStation 4, Xbox One, Nintendo Switch) - IGN: 8.0 - Vandal: 7.9 - Recomendaci\u00f3n: Un juego de terror en primera persona lleno de suspenso."
+        "Nombre": "fran",
+        "Correo": "fran",
+        "Edad": 22,
+        "Fecha_Hora": "2025-03-22 12:15:01",
+        "Recomendacion": "Tears of the Kingdom: DLC (Nintendo Switch) - IGN: 9.4 - Vandal: 9.3 - Recomendaci\u00f3n: Expansi\u00f3n para el aclamado juego con nuevos puzzles, personajes y habilidades.\nThe Legend of Zelda: Breath of the Wild (Nintendo Switch) - IGN: 10.0 - Vandal: 9.7 - Recomendaci\u00f3n: Una de las aventuras m\u00e1s innovadoras, con un mundo abierto por explorar y mec\u00e1nicas de juego \u00fanicas.\nUncharted 4: A Thief's End (PS4) - IGN: 9.5 - Vandal: 9.3 - Recomendaci\u00f3n: Una experiencia cinematogr\u00e1fica con personajes carism\u00e1ticos y escenarios impresionantes."
     }
 ]
